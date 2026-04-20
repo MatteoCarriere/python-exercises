@@ -1,0 +1,34 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment
+.env
+.env.local
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
