@@ -8,4 +8,5 @@ if name != 'Jerry':
     print(f"The total cost is {num_soup * 5.90}")
     print(f"Next please!")
 
+# If is Jerry it only says "Next please!"
 print(f"Next please!")
